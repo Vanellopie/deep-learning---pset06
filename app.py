@@ -1,10 +1,9 @@
 import streamlit as st
 from google import genai
 from google.genai import types
-from typing import List, Dict, Any
 from brave import Brave
 
-api_key = "AIzaSyD0C-4npNNw1ScqUGyZjE7zrzDIoH97ccE"
+api_key = "AIzaSyC43kbqD_c3wYz3VVgSUwg0U4Hz8Bx5GjE"
 brave_api_key = "BSAP1ZmJl9wMXKDvGnGM78r9__i_VuG"
 
 SYSTEM_PROMPT = """You are a helpful, professional, and knowledgeable chatbot for the American University of Mongolia (AUM).
