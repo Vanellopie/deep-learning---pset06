@@ -1,6 +1,7 @@
 import streamlit as st
 from google import genai
 from google.genai import types
+from typing import List, Dict, Any
 from brave import Brave
 
 api_key = "AIzaSyD0C-4npNNw1ScqUGyZjE7zrzDIoH97ccE"
